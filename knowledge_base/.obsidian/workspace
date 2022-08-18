@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "081369bb82e92b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5d26cb4602c240",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming languages/C++.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a81b5f62aef588e",
+    "type": "split",
+    "children": [
+      {
+        "id": "129425d245acc3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "514c9ce1eea30124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45770c99f86ec751",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed7021dfc407f89d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcf99da83fd7b502",
+    "type": "split",
+    "children": [
+      {
+        "id": "755ec78fc86503ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3141c5028dc8555f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming languages/C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6593f41ca7973c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming languages/C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cc7d0551de880c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "545cf5bc693533c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming languages/C++.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "514c9ce1eea30124",
+  "lastOpenFiles": [
+    "Programming languages/C#.md",
+    "Programming languages/C++.md",
+    "Programming languages/Python.md"
+  ]
+}
