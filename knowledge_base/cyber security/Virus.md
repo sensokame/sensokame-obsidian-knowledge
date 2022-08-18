@@ -1,0 +1,2 @@
+# Virus
+A virus is a piece of code that is designed to spread from one machine to another, it works by altering, overwriting or deleting files in the infected machine, usually the objective of a virus is to both spread and damage the machine.

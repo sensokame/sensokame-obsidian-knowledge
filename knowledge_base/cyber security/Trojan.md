@@ -1,0 +1,2 @@
+# Trojan
+A trojan horse is a software that hides its true intent, it is usually executed by the user without knowing that it hides malicious intent. A trojan will usually lead to a back door or control being given to the attacker.
