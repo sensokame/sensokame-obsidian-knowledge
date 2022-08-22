@@ -1,6 +1,7 @@
 # Git
 Git is a powerful open source version control tool, arguably the most famous and most used one
 > **NOTE:** [GitHub Page](https://github.com/git/git) (Note that the Github is a publish only repo, contributions can be done elsewhere)
+>**NOTE:** git has a collection of  commands, each with its own parameters and arguments, a normal git command execution is as follows `git subcommand args` a more comprehensive list of commands can be found in the [git page](https://git-scm.com/docs/git)
 
 ## Getting started with git
 Usually the starting point with git is to clone or create a new git repository.
@@ -22,7 +23,10 @@ the command `git clone` takes as input the remote url from where to clone the gi
 this will clone the remote repo into the current directory, additional parameters can be set like the output path, this can be done with the `-C` parameter followed with a path
 >**NOTE:** git clone will always create a new folder with the repo name in the output path
 
-### Setting up an additional remote
-Usually, when first cloning a git repo, a remote by the name ``origin`` is created, we can add other remotes or modify the existing remotes using the ``remote`` sub module of git
->**NOTE:** i say submodule because git has a collection of  commands, each with its own parameters and arguments, a normal git command execution is as follows `git subcommand args` a more comprehensive list of commands can be found in the [git page](https://git-scm.com/docs/git)
+### Setting up remotes
+Usually, when first cloning a git repo, a remote by the name ``origin`` is created, we can add other remotes or modify the existing remotes using the ``remote`` command of git
 
+The most basic remote command is 
+>`git remote add name url`
+
+where we add the name of the new remote and the url

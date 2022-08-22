@@ -1,0 +1,2 @@
+# Time complexity
+the time [[complexity]] is the computational complexity that describes the amount of computer time it takes to run an algorithm, this is better explained in the [[Big O Notation]] notes as usually some time constraints is imposed which limits the complexity of a program.

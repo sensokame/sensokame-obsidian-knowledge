@@ -1,0 +1,3 @@
+# Compilation
+Compilation is the process of tranforming human readable source code into machine code. 
+the process of compilation goes through many steps and the result is usually only runnable on a specific hardware architecture or operating system. this means, that in order to run on different machine architecture, it is necessary to compile different outputs for different machine architecture, this is not always very good, which is why sometimes [[Interpreted languages]] are a welcomed alternative to compiled languages. but compilation is still (for now) the best approach to get the best performance.

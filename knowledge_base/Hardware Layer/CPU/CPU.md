@@ -1,0 +1,2 @@
+# CPU
+the CPU is usually the brain of the machine, each cpu type has different architecture and capabilities, but usually, a CPU is a collection of transistors stacked together into different formations. 

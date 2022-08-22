@@ -1,0 +1,2 @@
+# Space complexity
+Space [[complexity]] is basically the amount of memory that a function will take up, when we call a function the space complexity is increased by +1, so in theory, a recursive function that calls itself n times has o(n) complexity (Check [[Big O Notation]]) for more information on the complexity
