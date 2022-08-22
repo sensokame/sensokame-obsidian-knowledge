@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Layer/Operating System/Linux/Linux.md",
+            "file": "cyber security/General Security Terms/Network Security/Network Security.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Layer/Operating System/Linux/Linux.md",
+                "file": "cyber security/General Security Terms/Network Security/Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Layer/Operating System/Linux/Linux.md",
+                "file": "cyber security/General Security Terms/Network Security/Network Security.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Layer/Operating System/Linux/Linux.md"
+                "file": "cyber security/General Security Terms/Network Security/Network Security.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "352cf620a4c02295",
   "lastOpenFiles": [
+    "Software Layer/Operating System/Linux/Linux.md",
     "cyber security/General Security Terms/Operation System Security/Operation System Security.md",
     "Software Layer/Operating System/Operating System.md",
     "Programming languages/Compilation/compilation.md",
@@ -138,7 +139,6 @@
     "Programming languages/Python/Python.md",
     "Programming Notations/Memory.md",
     "Hardware Layer/CPU/CPU.md",
-    "Hardware Layer/Hardware Layer.md",
-    "Algorithms and Data Structures/Data structures/Graphs.md"
+    "Hardware Layer/Hardware Layer.md"
   ]
 }
