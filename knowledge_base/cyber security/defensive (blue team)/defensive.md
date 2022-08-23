@@ -10,7 +10,7 @@ These actions can consist of
 > **_NOTE:_** it is very important to keep the system up to date as security patches would fix security issues and vulnerablities
 > **NOTE:** check [[Vulnerabilities]] page for more information  
 
-Blue team would most likely have a SOC . A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events. 
+Blue team would most likely have a SOC . A [[Security Operations]] Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events. 
 The SOC team would take care of:
 - [[Vulnerabilities]]
 - [[Policy Violation]]
