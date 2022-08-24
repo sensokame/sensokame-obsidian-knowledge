@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Projects management/Life Cycle Tools/Jira.md",
+            "file": "Programming Notations/Testing/Unit Testing.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Projects management/Life Cycle Tools/Jira.md",
+                "file": "Programming Notations/Testing/Unit Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Projects management/Life Cycle Tools/Jira.md",
+                "file": "Programming Notations/Testing/Unit Testing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Projects management/Life Cycle Tools/Jira.md"
+                "file": "Programming Notations/Testing/Unit Testing.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "514c9ce1eea30124",
+  "active": "b6f24182ef03860f",
   "lastOpenFiles": [
-    "Software Projects management/DevOps.md",
-    "Software Projects management/Continuous development.md",
-    "Software Projects management/Continous Integration.md",
-    "Software Projects management/Life Cycle Tools/TeamCity.md",
-    "Software Projects management/Life Cycle Tools/Jenkins.md",
-    "Software Projects management/Life Cycle Tools/Gitlab.md",
-    "Software Projects management/Life Cycle Tools/GitHub.md",
-    "Algorithms and Data Structures/Algorithms and Data Structures.md",
-    "Algorithms and Data Structures/Data structures/Trees.md",
-    "Algorithms and Data Structures/Data structures/Lists.md"
+    "Programming Notations/Testing/White Box.md",
+    "Programming Notations/Testing/Grey Box.md",
+    "Programming Notations/Testing/Black Box.md",
+    "cyber security/offensive (red team)/Penetration Tester.md",
+    "cyber security/offensive (red team)/offensive.md",
+    "cyber security/General Security Terms/Covering our tracks.md",
+    "cyber security/General Security Terms/Privilege escalation.md",
+    "cyber security/General Security Terms/Post exploitation.md",
+    "cyber security/General Security Terms/exploitation.md",
+    "cyber security/General Security Terms/Vulnerabilities/Vulnerabilities.md"
   ]
 }

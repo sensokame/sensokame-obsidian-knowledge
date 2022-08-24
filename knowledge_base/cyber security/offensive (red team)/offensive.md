@@ -10,7 +10,7 @@ people usually classify red team activities based on their vulnerability finding
 >- Incident Responder
 >- Digital Forensics Examiner
 >- Malware Analyst
->- Penetration Tester
+>- [[Penetration Tester]]
 >- Red Teamer
 >**NOTE:** The difference between a Penetration Tester and a Red Teamer is that the Red teamer is basically an external to the system and will attempt to break the system from outside the network with no prior knowledge while attempting to avoid detection, a red teamer basically acts like a black hat hacker in an attempt to uncover defects in the system, while a penetration tester is usually working from within the company to uncover defects with prior knowledge about the system.
 >**NOTE:** One can also work as a bounty hunter, where the hacker would hunt for bugs in the system and report them to the creator company for a bounty, many companies offer bug bounty program to incentivize people to report the bugs that they find.
@@ -23,4 +23,4 @@ most offensive activities are done with the help of tools, these tools can eithe
 tools will be mentioned as neede, but the comprehensive list can be accessed directly at [[Offensive tools]]
 ## Offensive Process
 Depending on your intentions, your offensive workflow can change. these are some of the offensive activities
-- [[Intelligence/Information Gathering]]
+- [[Intelligence or Information Gathering]]
