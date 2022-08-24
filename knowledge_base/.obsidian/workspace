@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "352cf620a4c02295",
+        "id": "b6f24182ef03860f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/defensive (blue team)/Security Operations.md",
+            "file": "Software Projects management/Life Cycle Tools/Jira.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/defensive (blue team)/Security Operations.md",
+                "file": "Software Projects management/Life Cycle Tools/Jira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/defensive (blue team)/Security Operations.md",
+                "file": "Software Projects management/Life Cycle Tools/Jira.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/defensive (blue team)/Security Operations.md"
+                "file": "Software Projects management/Life Cycle Tools/Jira.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "352cf620a4c02295",
+  "active": "514c9ce1eea30124",
   "lastOpenFiles": [
-    "cyber security/defensive (blue team)/defensive.md",
-    "cyber security/defensive (blue team)/Security Operations.md",
-    "cyber security/defensive (blue team)/Static Malware Analysis.md",
-    "cyber security/General Security Terms/Security Tools/pdfinfo.md",
-    "cyber security/General Security Terms/Security Tools/exiftool.md",
-    "cyber security/General Security Terms/Security Tools/poppler-utils.md",
-    "cyber security/General Security Terms/Security Tools/Security tools.md",
-    "cyber security/General Security Terms/Digital Forensics.md",
-    "Programming Notations/Licensing/Licensing.md",
-    "Programming languages/Compilation/compilation.md"
+    "Software Projects management/DevOps.md",
+    "Software Projects management/Continuous development.md",
+    "Software Projects management/Continous Integration.md",
+    "Software Projects management/Life Cycle Tools/TeamCity.md",
+    "Software Projects management/Life Cycle Tools/Jenkins.md",
+    "Software Projects management/Life Cycle Tools/Gitlab.md",
+    "Software Projects management/Life Cycle Tools/GitHub.md",
+    "Algorithms and Data Structures/Algorithms and Data Structures.md",
+    "Algorithms and Data Structures/Data structures/Trees.md",
+    "Algorithms and Data Structures/Data structures/Lists.md"
   ]
 }
