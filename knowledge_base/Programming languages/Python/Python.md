@@ -15,4 +15,5 @@ Python comes backed with a huge community of developers, which contributes to th
 It is important to note that PyPi is a public repository, so in theory, you can push your python libraries after packaging them into whl and tar.gz files (for this we can use [[PyInstaller]] or the build module that comes with python), and as long as the package is well maintained and useful, it will stay there for people to use.
 
 ## Getting started with Python
-To get started with python, we need to install the interpreter of our choosing, 
+To get started with python, we need to install the interpreter of our choosing, usually we would use the latest supported python interpreter downloaded from the official python.org page.
+The installer would add itself to the system path making python callable from all over the system.
