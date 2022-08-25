@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming Notations/Testing/Unit Testing.md",
+            "file": "Programming languages/Python/Python.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notations/Testing/Unit Testing.md",
+                "file": "Programming languages/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notations/Testing/Unit Testing.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "Programming languages/Python/Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notations/Testing/Unit Testing.md"
+                "file": "Programming languages/Python/Python.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
+    "Programming languages/Python/Important libraries/Nox.md",
+    "Programming languages/Python/Packaging/PyInstaller.md",
+    "Programming Notations/Testing/Unit Testing.md",
     "Programming Notations/Testing/White Box.md",
     "Programming Notations/Testing/Grey Box.md",
     "Programming Notations/Testing/Black Box.md",
     "cyber security/offensive (red team)/Penetration Tester.md",
     "cyber security/offensive (red team)/offensive.md",
     "cyber security/General Security Terms/Covering our tracks.md",
-    "cyber security/General Security Terms/Privilege escalation.md",
-    "cyber security/General Security Terms/Post exploitation.md",
-    "cyber security/General Security Terms/exploitation.md",
-    "cyber security/General Security Terms/Vulnerabilities/Vulnerabilities.md"
+    "cyber security/General Security Terms/Privilege escalation.md"
   ]
 }

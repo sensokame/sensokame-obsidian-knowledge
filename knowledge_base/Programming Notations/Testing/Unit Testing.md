@@ -1,4 +1,4 @@
 # Unit testing
 Unit testing is the process of writing Test functions that test the smallest possible elements of your code, functions. these tests are usually done by providing input, executing the function under test (some mocking could be needed) and then asserting that the result is the same as the expected output.
-There are several frameworks out there for creating, running and reporting unit tests, and usually each programming language or framework comes equipped with its own unit testing frameworks and libraries.
+There are several [[frameworks]] out there for creating, running and reporting unit tests, and usually each programming language or framework comes equipped with its own unit testing [[frameworks]] and libraries.
 >**NOTE:** some of the metrics that could be collected after running the unit tests of a code base is [[Coverage]] which is another metric for [[Code quality]] 
