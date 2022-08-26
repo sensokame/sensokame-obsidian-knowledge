@@ -3,17 +3,17 @@
 this is an information security model that is used in consideration through creating security policies.
 This model consists of three sections, These sections are a continuous cycle.
 ### Confidentiality
-This element is the protection of data from unauthorized access and misuse.
+This element is the protection of data from unauthorised access and misuse.
 ### Integrity
-Integrity is the condition where information is kept accurate and consistent unless authorized changes are made.
+Integrity is the condition where information is kept accurate and consistent unless authorised changes are made.
 ### Availability
 In order for data to be useful, it must be accessible to the user.
-> Basically this triad means that data should be available to people who are authorized to access it and should only be modifiable to people who are authorized to do so.
+> Basically this triad means that data should be available to people who are authorised to access it and should only be modifiable to people who are authorised to do so.
 
 ## Principles of privileges
 It is viral to correctly define the various levels of access to an information system individuals require. basically you don't give more information than needed to a user.
 The levels of access are determined by two factors:
-- the individual's role/function in an organization
+- the individual's role/function in an organisation
 - the sensitivity of the information being stored.
 the two concepts used to assign and manage the access are Privileged identity management (PIM) and privileged access management (PAM)
 ### PIM
