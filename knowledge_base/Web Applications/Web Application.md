@@ -1,0 +1,3 @@
+# Web applications
+These are some of the most famous fields for a programmer. more and more apps are migrating to the web, as it is better for developers to maintain and quickly deploy web applications as opposed to the long development process of desktop applications.
+This poses an issue as web applications are directly accessible from the internet, usually through navigator, which makes them the biggest target to hackers, since there is a lot to exploit in web applications.
