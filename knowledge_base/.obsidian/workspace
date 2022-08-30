@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/General Security Terms/Steganography.md",
+            "file": "Systems/Certificate authority/Certificate authority.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/General Security Terms/Steganography.md",
+                "file": "Systems/Certificate authority/Certificate authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/General Security Terms/Steganography.md",
+                "file": "Systems/Certificate authority/Certificate authority.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/General Security Terms/Steganography.md"
+                "file": "Systems/Certificate authority/Certificate authority.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
-    "cyber security/capture the flag/capture the flag.md",
+    "cyber security/General Security Terms/Vulnerabilities/SQL Injection.md",
+    "Systems/Business telephone system/PBX.md",
     "cyber security/General Security Terms/Steganography.md",
+    "cyber security/capture the flag/capture the flag.md",
     "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
     "cyber security/General Security Terms/Web Application Security/Web Application Security.md",
     "Web Applications/Web Application.md",
     "Programming Notations/Reverse engineering/Ghidra.md",
     "Programming Notations/Reverse engineering/Reverse Engineering.md",
-    "cyber security/General Security Terms/Principles of Security.md",
-    "Programming languages/Python/Python.md",
-    "Programming languages/Python/Important libraries/Nox.md"
+    "cyber security/General Security Terms/Principles of Security.md"
   ]
 }
