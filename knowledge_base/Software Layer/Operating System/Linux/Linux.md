@@ -1,10 +1,10 @@
 # Linux
 Linux is a family of open-source [[Unix]]-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds.
 Linux is arguable the most famous open source operating system, with many different distributions created from it, each distribution has something to offer, and depending on your use case, you can chose the distribution that works for you.
-It is also easy enough to create your own distribution or to customize the one you have.
+It is also easy enough to create your own distribution or to customise the one you have.
 ## Working with Linux
-Linux presents a power house of an operating system with its incredible power of customization, on average, Linux is less user friendly than other operating systems, but offers more control to the user. 
-as a developer, most of the work to be done in linux is done via a [[terminal]], there exists some GUI applications for linux, but the [[terminal]] remains the go to choice for most linux based applications.
+Linux presents a power house of an operating system with its incredible power of customisation, on average, Linux is less user friendly than other operating systems, but offers more control to the user. 
+as a developer, most of the work to be done in Linux is done via a [[terminal]], there exists some GUI applications for Linux, but the [[terminal]] remains the go to choice for most Linux based applications.
 > Check working with [[Linux Terminal]] for more information on the different commands and syntax
 
 ## The Different Linux distributions
@@ -25,6 +25,6 @@ check the [[bash]] page for what we can do with a Linux bash
 ## Scripting With Linux
 creating scripts can allow the user to automate complex or repetitive processes, the best and easiest way for this is to set the first line of the script to the interpreter of your choice.
 this is called a [Shebang](https://bash.cyberciti.biz/guide/Shebang), the most usual value would be `#!/bin/bash`, which means that /bin/bash interpreter will be used when executing this file.
-after setting the Shebang, we finish the script, and then to be able to run it directly, we need to set it as executable using the `chmod` linux command
+after setting the Shebang, we finish the script, and then to be able to run it directly, we need to set it as executable using the `chmod` Linux command
 > Example: `chmod +x script.sh`
 
