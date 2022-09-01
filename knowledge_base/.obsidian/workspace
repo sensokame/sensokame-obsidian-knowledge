@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
+            "file": "Software Layer/Operating System/Linux/Linux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
+                "file": "Software Layer/Operating System/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
+                "file": "Software Layer/Operating System/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md"
+                "file": "Software Layer/Operating System/Linux/Linux.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 217.5,
     "collapsed": true
   },
-  "active": "545cf5bc693533c5",
+  "active": "b6f24182ef03860f",
   "lastOpenFiles": [
+    "Programming languages/Python/Python.md",
+    "Programming languages/Python/Packaging/PyInstaller.md",
+    "cyber security/offensive (red team)/BotNet.md",
+    "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
     "cyber security/General Security Terms/OSINT/OSINT.md",
     "cyber security/General Security Terms/OSINT/Google Hacking or dorking.md",
     "cyber security/General Security Terms/Intelligence or Information Gathering.md",
     "cyber security/offensive (red team)/offensive.md",
-    "cyber security/General Security Terms/Web Application Security/Content discovery/Content Discovery.md",
     "Systems/Certificate authority/Certificate authority.md",
-    "cyber security/General Security Terms/Vulnerabilities/SQL Injection.md",
-    "Systems/Business telephone system/PBX.md",
-    "cyber security/General Security Terms/Steganography.md",
-    "cyber security/capture the flag/capture the flag.md"
+    "cyber security/General Security Terms/Vulnerabilities/SQL Injection.md"
   ]
 }
