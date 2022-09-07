@@ -10,7 +10,7 @@ This team would take care of:
 ## Data sources
 As talked about briefly in the overview, there are multiple sources for data for the security operations center, from these we cite:
 - server logs: there are many servers on the network, including mail, web, domain controller, etc
-- [[dns]] activity: this can tell us which domain names is the internal system trying to communicate with
+- [[DNS]] activity: this can tell us which domain names is the internal system trying to communicate with
 - [[firewall]] logs: firewall logs can tell us about which applications/packets attempted to get through
 - [[dhcp]] logs: dhcp logs can tell us about the devices that joined the network.
 

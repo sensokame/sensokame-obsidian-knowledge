@@ -29,5 +29,5 @@ Automated discovery is the process of using tools to discover content, this is u
 some of these tools include:
 - [[ffuf]]
 - [[dirb]]
-- [[gobuster]]
+- [[GoBuster]]
 these tools will try to fuzz the url and return the positive responses from the server indicating a valid content.
