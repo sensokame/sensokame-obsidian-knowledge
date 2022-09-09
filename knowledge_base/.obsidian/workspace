@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
+            "file": "cyber security/General Security Terms/Popular exploits/Mimikatz exploit.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
+                "file": "cyber security/General Security Terms/Popular exploits/Mimikatz exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
+                "file": "cyber security/General Security Terms/Popular exploits/Mimikatz exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md"
+                "file": "cyber security/General Security Terms/Popular exploits/Mimikatz exploit.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 217.5,
     "collapsed": true
   },
-  "active": "b6f24182ef03860f",
+  "active": "514c9ce1eea30124",
   "lastOpenFiles": [
+    "cyber security/offensive (red team)/offensive tools/Exploit tools/mimikatz tool.md",
+    "Programming languages/C++/C++.md",
+    "General Purpose tools/Web tools/server hosting/Updog.md",
+    "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
     "cyber security/offensive (red team)/Authentication Bypass/Authentication Bypass.md",
     "cyber security/offensive (red team)/Offensive Techniques/UserName Enumeration.md",
     "cyber security/offensive (red team)/Offensive Techniques/Brute Force.md",
     "Web Applications/The Internet/Protocols/DNS.md",
     "Algorithms and Data Structures/Data structures/Arrays.md",
-    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/ffuf.md",
-    "cyber security/General Security Terms/Security Tools/Security tools.md",
-    "cyber security/General Security Terms/Web Application Security/SubDomain enumeration/SubDomain Enumeration.md",
-    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/GoBuster.md",
-    "cyber security/offensive (red team)/offensive tools/Offensive tools.md"
+    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/ffuf.md"
   ]
 }

@@ -3,7 +3,7 @@ as we are aware, we need to tell machines what to do (we need to program machine
 it is impracticle (and nearly impossible) to actually tell the machine what to do in its native language (binary), so from here came the rise of programming languages, a language that is humanly readable, which can then be compiled or executed to work on the native hardware of the machine. 
 
 Programming Languages can be classified by many different ways. 
->**NOTE:** more often than not, some languages will belong to more than one group inside a classification, example being [[c++]] which is both a procedural and an object oriented programming language
+>**NOTE:** more often than not, some languages will belong to more than one group inside a classification, example being [[C++]] which is both a procedural and an object oriented programming language
 
 ## Compiled vs interpreted languages
 a very common classification for programming language is what happens after writing the code is done, 
