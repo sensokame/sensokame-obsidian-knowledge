@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
+            "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
+                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
+                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md"
+                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
-    "cyber security/General Security Terms/Vulnerabilities/File Inclusion.md",
     "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
+    "cyber security/General Security Terms/Vulnerabilities/File Inclusion.md",
     "cyber security/General Security Terms/Vulnerabilities/Insecure Direct Object Reference.md",
     "cyber security/offensive (red team)/Offensive Techniques/Cookie Tampering.md",
     "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
