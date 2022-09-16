@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
+            "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
+                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
+                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyber security/General Security Terms/Vulnerabilities/SSRF.md"
+                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
+    "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
+    "Programming Notations/Design patterns/Behavioral patterns/Behavioral patterns.md",
+    "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
+    "Programming Notations/Design patterns/Design Patterns.md",
+    "Programming Notations/code quality/code smells/Code Smells.md",
+    "Programming Notations/code quality/Refactoring/Refactoring.md",
+    "Programming Notations/code quality/Code quality.md",
+    "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
     "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
-    "cyber security/General Security Terms/Vulnerabilities/File Inclusion.md",
-    "cyber security/General Security Terms/Vulnerabilities/Insecure Direct Object Reference.md",
-    "cyber security/offensive (red team)/Offensive Techniques/Cookie Tampering.md",
-    "cyber security/offensive (red team)/Offensive Techniques/Logic Flaw.md",
-    "cyber security/offensive (red team)/Authentication Bypass/Authentication Bypass.md",
-    "cyber security/General Security Terms/Covering our tracks.md",
-    "cyber security/General Security Terms/Popular exploits/Mimikatz exploit.md",
-    "cyber security/offensive (red team)/offensive tools/Exploit tools/mimikatz tool.md",
-    "Programming languages/C++/C++.md"
+    "cyber security/General Security Terms/Vulnerabilities/File Inclusion.md"
   ]
 }
