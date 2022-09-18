@@ -11,7 +11,11 @@ Gobuster is under active development, source code can be found in [Gobuster gith
 >**NOTE:** Gobuster comes pre installed with kali linux
 
 we can use gobuster to enumerate a website and check for any hidden pages or directories.
-
+## Getting Started
 Basic command goes like 
 ``gobuster dir -u host -w wordlist``
 We can use ``-x`` switch to specify file extension
+### Basic commands
+#### Dns enumeration
+to run a basic dns enumeration enumeration, a gobuster command line would look like this 
+> gobuster (dns,vhsot) -u http://domain_name -w wordlist

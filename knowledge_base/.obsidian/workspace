@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
+            "file": "General Purpose tools/Cloud tools/awscli.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jenkins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
+                "file": "General Purpose tools/Cloud tools/awscli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
+                "file": "General Purpose tools/Cloud tools/awscli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notations/Design patterns/Structural patterns/Structural patterns.md"
+                "file": "General Purpose tools/Cloud tools/awscli.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
-    "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
+    "Technologies/Cloud Computing/Aws/awscli.md",
+    "Technologies/Cloud Computing/Aws/Aws.md",
+    "Technologies/Life Cycle Tools/Jenkins.md",
+    "Technologies/Technologies.md",
+    "Useful links/Security Useful links.md",
+    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/GoBuster.md",
+    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/ffuf.md",
+    "cyber security/offensive (red team)/Offensive Techniques/UserName Enumeration.md",
     "Programming Notations/Design patterns/Behavioral patterns/Behavioral patterns.md",
-    "Programming Notations/Design patterns/Structural patterns/Structural patterns.md",
-    "Programming Notations/Design patterns/Design Patterns.md",
-    "Programming Notations/code quality/code smells/Code Smells.md",
-    "Programming Notations/code quality/Refactoring/Refactoring.md",
-    "Programming Notations/code quality/Code quality.md",
-    "cyber security/General Security Terms/Vulnerabilities/SSRF.md",
-    "cyber security/defensive (blue team)/Defensive Techniques/General Tips for defending against vulnerabilities.md",
-    "cyber security/General Security Terms/Vulnerabilities/File Inclusion.md"
+    "Programming Notations/Design patterns/Structural patterns/Structural patterns.md"
   ]
 }
