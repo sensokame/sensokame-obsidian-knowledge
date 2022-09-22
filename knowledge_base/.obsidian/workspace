@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Purpose tools/Cloud tools/awscli.md",
+            "file": "Programming Notations/General Purpose Notations/MVP (Minimum viable product).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Purpose tools/Cloud tools/awscli.md",
+                "file": "Programming Notations/General Purpose Notations/MVP (Minimum viable product).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Purpose tools/Cloud tools/awscli.md",
+                "file": "Programming Notations/General Purpose Notations/MVP (Minimum viable product).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Purpose tools/Cloud tools/awscli.md"
+                "file": "Programming Notations/General Purpose Notations/MVP (Minimum viable product).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b6f24182ef03860f",
   "lastOpenFiles": [
-    "Technologies/Cloud Computing/Aws/awscli.md",
-    "Technologies/Cloud Computing/Aws/Aws.md",
-    "Technologies/Life Cycle Tools/Jenkins.md",
-    "Technologies/Technologies.md",
+    "Programming Notations/General Purpose Notations/Technical Debt.md",
+    "cyber security/offensive (red team)/offensive tools/Offensive tools.md",
+    "cyber security/offensive (red team)/offensive tools/Active reconnaissance tools/nmap.md",
     "Useful links/Security Useful links.md",
-    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/GoBuster.md",
-    "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/ffuf.md",
-    "cyber security/offensive (red team)/Offensive Techniques/UserName Enumeration.md",
-    "Programming Notations/Design patterns/Behavioral patterns/Behavioral patterns.md",
-    "Programming Notations/Design patterns/Structural patterns/Structural patterns.md"
+    "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
+    "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
+    "Programming Notations/Design patterns/Design Patterns.md",
+    "Programming Notations/Programming principles/Programming Principles.md",
+    "Liskov substitution principle.md",
+    "Programming Notations/Programming principles/SOLID Principles.md"
   ]
 }

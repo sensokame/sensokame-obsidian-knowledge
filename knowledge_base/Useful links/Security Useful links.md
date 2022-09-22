@@ -4,3 +4,5 @@ there is a plethora of links on the web to learn more about security, here I men
 [TryHackMe](https://tryhackme.com): online platform for teaching security with labs, CTFs, machines and much more
 [HackTheBox](https://app.hackthebox.com): online platform for teaching security with labs, CTFs, machines and much more
 [pentest book](https://pentestbook.six2dez.com/): online book with several penetration testing technique
+[sectools website](https://sectools.org/): list of the top network security tools
+[seclists website](https://seclists.org/): list of mailing lists for security

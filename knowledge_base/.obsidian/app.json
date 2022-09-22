@@ -3,5 +3,9 @@
   "promptDelete": false,
   "showLineNumber": true,
   "spellcheck": true,
-  "attachmentFolderPath": "General Purpose tools"
+  "attachmentFolderPath": "attachements",
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-US"
+  ]
 }

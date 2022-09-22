@@ -1,5 +1,6 @@
 # Design Patterns 
 Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customise to solve a particular design problem in your code.
+> Refer to [Design Patterns corner](https://refactoring.guru/design-patterns/) in the [Refactoring Guru](https://refactoring.guru/) website
 ## Benefits Of Patterns
 Patterns are a toolkit of solutions to common problems in software design. They define a common language that helps your team communicate more efficiently.
 These are tried and tested solutions which means that for the given problem they tackle, the represent the better approach of solving that issue.
