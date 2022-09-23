@@ -22,7 +22,7 @@ to implement a singleton design pattern, the developer needs to:
 - it could be a better approach to mark the singleton class as final/sealed to prevent people from creating children classes that may ruin the application integrity
 - in most cases, the singleton class needs to have only one instance of the object, but in some cases the user needs multiple instances, this can all be handled in the ``getInstance`` method of the class.
 ## Structure
-![[structure-en.png]]
+![[structure_singleton_design_pattern.png]]
 The structure is quiet simple, declaring a static instance ``getInstance`` that returns the same instance every time it's called
 The constructor should be hidden and the only way to interact with the class is through the ``getInstance`` method.
 ## Pseudo Code
