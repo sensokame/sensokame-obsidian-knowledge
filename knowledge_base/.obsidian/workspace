@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f24182ef03860f",
+        "id": "58046bde0af4c423",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
+            "file": "cyber security/General Security Terms/Vulnerabilities/XSS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
+                "file": "cyber security/General Security Terms/Vulnerabilities/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
+                "file": "cyber security/General Security Terms/Vulnerabilities/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md"
+                "file": "cyber security/General Security Terms/Vulnerabilities/XSS.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 217.5,
     "collapsed": true
   },
-  "active": "b6f24182ef03860f",
+  "active": "58046bde0af4c423",
   "lastOpenFiles": [
+    "attachements/stored_xss_graph.png",
+    "cyber security/General Security Terms/Vulnerabilities/XSS.md",
+    "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
     "Programming Notations/Design patterns/Creational patterns/Prototype Design Pattern.md",
     "cyber security/offensive (red team)/offensive tools/Active reconnaissance tools/nmap.md",
     "cyber security/offensive (red team)/offensive tools/Brute Forcing tools/ffuf.md",
-    "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md",
     "attachements/structure_prototype_design_pattern.png",
     "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
     "Programming Notations/General Purpose Notations/MVP (Minimum viable product).md",
-    "Programming Notations/General Purpose Notations/Technical Debt.md",
-    "cyber security/offensive (red team)/offensive tools/Offensive tools.md",
-    "Useful links/Security Useful links.md"
+    "Programming Notations/General Purpose Notations/Technical Debt.md"
   ]
 }
