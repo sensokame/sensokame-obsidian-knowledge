@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "081369bb82e92b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ea53bd0188585d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58046bde0af4c423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber security/General Security Terms/Vulnerabilities/XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "360f464b19ba0432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Data structures/Circular Buffer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a81b5f62aef588e",
+    "type": "split",
+    "children": [
+      {
+        "id": "129425d245acc3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "514c9ce1eea30124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45770c99f86ec751",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jenkins",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed7021dfc407f89d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "fcf99da83fd7b502",
+    "type": "split",
+    "children": [
+      {
+        "id": "755ec78fc86503ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3141c5028dc8555f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms and Data Structures/Data structures/Circular Buffer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6593f41ca7973c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithms and Data Structures/Data structures/Circular Buffer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2cc7d0551de880c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "545cf5bc693533c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithms and Data Structures/Data structures/Circular Buffer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "360f464b19ba0432",
+  "lastOpenFiles": [
+    "Algorithms and Data Structures/Data structures/Tree.md",
+    "Algorithms and Data Structures/Data structures/List.md",
+    "Algorithms and Data Structures/Data structures/Graph.md",
+    "Algorithms and Data Structures/Data structures/HashMap.md",
+    "Algorithms and Data Structures/Data structures/Circular Buffer.md",
+    "Algorithms and Data Structures/Data structures/Array.md",
+    "Algorithms and Data Structures/Data structures/Binary Tree.md",
+    "cyber security/General Security Terms/Vulnerabilities/XSS.md",
+    "attachements/stored_xss_graph.png",
+    "Programming Notations/Design patterns/Creational patterns/Singleton design pattern.md"
+  ]
+}

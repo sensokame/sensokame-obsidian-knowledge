@@ -19,6 +19,6 @@ Usually, every data structure has the following possible actions or operation
 >One needs to know the benefits and drawbacks of every data structure by knowing the complexity of each operation, for example an array has an access complexity of O(1) making it incredibly fast when knowing the index of the needed element (and the total size of the data)
 
 - Data Structures:
-	- [[Arrays]]
+	- [[Array]]
 - Algorithms
 	- [[Greedy]]
