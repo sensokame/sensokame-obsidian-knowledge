@@ -110,7 +110,7 @@ class Application is
 > the registry can be implemented as a factory class or put in the base prototype class with a static method for fetching the prototype.
 
 ## Pros and Cons
-### Pro
+### Pros
 - objects are clonable without coupling the concrete classes.
 - repeated initialization can be discarded in favor of cloning pre-built prototypes
 - complex object can be produced more conveniently
