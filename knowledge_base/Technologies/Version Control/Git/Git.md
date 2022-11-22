@@ -23,6 +23,8 @@ the command `git clone` takes as input the remote url from where to clone the gi
 this will clone the remote repo into the current directory, additional parameters can be set like the output path, this can be done with the `-C` parameter followed with a path
 >**NOTE:** git clone will always create a new folder with the repo name in the output path
 
+> **NOTE:** git usually works with the saved default credentials; when cloning, to specify a different username, can be done using `git clone https://username@git_remote`
+
 ### Setting up remotes
 Usually, when first cloning a git repo, a remote by the name ``origin`` is created, we can add other remotes or modify the existing remotes using the ``remote`` command of git
 

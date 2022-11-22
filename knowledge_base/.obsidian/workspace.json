@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
+                "file": "Programming Notations/Design patterns/Creational patterns/Abstract Factory Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "073bb263473fcdce",
+            "id": "7aac7a3024db25d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Factory Method Design Pattern.md",
+                "file": "Technologies/Version Control/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Factory Method Design Pattern.md",
+                "file": "Technologies/Version Control/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Factory Method Design Pattern.md",
+                "file": "Technologies/Version Control/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Notations/Design patterns/Creational patterns/Factory Method Design Pattern.md"
+                "file": "Technologies/Version Control/Git/Git.md"
               }
             }
           }
@@ -149,20 +149,17 @@
     "width": 217.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "073bb263473fcdce",
+  "active": "7aac7a3024db25d5",
   "lastOpenFiles": [
-    "Programming Notations/Design patterns/Creational patterns/Prototype Design Pattern.md",
+    "Programming Notations/Design patterns/Creational patterns/Builder Design Pattern.md",
     "Programming Notations/Design patterns/Creational patterns/Creational Patterns.md",
     "Programming Notations/Design patterns/Creational patterns/Factory Method Design Pattern.md",
+    "Programming Notations/Design patterns/Creational patterns/Abstract Factory Design Pattern.md",
+    "Programming Notations/Design patterns/Creational patterns/Prototype Design Pattern.md",
     "Algorithms and Data Structures/Algorithms and Data Structures.md",
     "Algorithms and Data Structures/Algorithms/Greedy.md",
     "Algorithms and Data Structures/Data structures/Circular Buffer.md",
     "Algorithms and Data Structures/Data structures/Tree.md",
-    "Algorithms and Data Structures/Data structures/List.md",
-    "Algorithms and Data Structures/Data structures/Graph.md",
-    "Algorithms and Data Structures/Data structures/HashMap.md"
+    "Algorithms and Data Structures/Data structures/List.md"
   ]
 }
